@@ -6,6 +6,9 @@ import java.security.PrivilegedAction;
 
 /**
  * 该类必须放到Package中,否则读取jar时解析不到方法
+ * 参考链接:
+ * http://www.blogjava.net/Phrancol/articles/259069.html
+ * https://blog.csdn.net/jiangtianjiao/article/details/87909065
  */
 public class DoTxtOperateDemo {
 
