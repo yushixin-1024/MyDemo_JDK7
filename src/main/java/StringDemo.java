@@ -1,6 +1,6 @@
 public class StringDemo {
 
-    String str = new String("good");
+    String str = "good";
 
     char[] ch = {'t', 'e', 's', 't'};
 
