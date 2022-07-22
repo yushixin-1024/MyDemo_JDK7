@@ -39,7 +39,7 @@ public class HashMapDemo {
         System.out.println("扩容前大小[main]:" + map.size());
 
         /*
-        Debug断电条件:
+        Debug断点条件:
         1.589:newTable.length==32 && (Thread.currentThread().getName().equals("Thread-0")||Thread.currentThread().getName().equals("Thread-1"))
         2.594:Thread.currentThread().getName().equals("Thread-0")
          */
